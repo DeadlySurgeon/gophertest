@@ -9,6 +9,11 @@ variable seeded test in Go. It relies on a tool I made called
 Either install test finder with go cli, or use the VSCode command `Gopher-Test:
 Install Tooling` to have it downloaded.
 
+## Examples
+
+![image](https://github.com/user-attachments/assets/6ed6ba1d-240e-49f9-ba44-da91acabd7d6)
+
+
 ## Contributions
 
 More than happy to accept contributions, however since this just a simple tool
