@@ -43,7 +43,7 @@ function installTooling() {
 
   const child = spawn("go", [
     "install",
-    "github.com/deadlysurgeon/testfinder@latest",
+    "github.com/deadlysurgeon/testfinder@v1.0.0",
   ]);
 
   child.stdout.on("data", (data) => {
